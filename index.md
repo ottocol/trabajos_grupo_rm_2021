@@ -4,14 +4,14 @@
 
 - [Presentación en video](https://drive.google.com/file/d/1-mtoZPpNgj2g2rj_pondnD2xYokZJ2Wm/view?usp=sharing)
 - [Documento pdf](kiva/vnt.pdf)
-- [código ROS](https://github.com/ottocol/trabajos_grupo_rm_2021/tree/main/kiva/paquetesROS) | [código en .zip](kiva/paquetesROS.zip)
+- [código ROS](https://github.com/ottocol/trabajos_grupo_rm_2021/tree/main/kiva/paquetesROS) / [código en .zip](kiva/paquetesROS.zip)
 
 ## Drones en ROS
 ### David Mataix Borrell, Victoria Frutos Navarro, Nuria Martínez Berná, Esther Vera Moreno
 
 - [Presentación en video](https://drive.google.com/file/d/1X2xLRyJl0wmDqlmIJh5t4tb_BAUO7lOC/view?usp=sharing)
 - [Documento pdf](drones_en_ROS/Memoria_proyecto_drones.pdf)
-- [material de ROS](https://github.com/ottocol/trabajos_grupo_rm_2021/tree/main/drones_en_ROS/material_ROS) | [material en .zip](drones_en_ROS/material_ROS.zip)
+- [material de ROS](https://github.com/ottocol/trabajos_grupo_rm_2021/tree/main/drones_en_ROS/material_ROS) / [material en .zip](drones_en_ROS/material_ROS.zip)
 
 ## Creación de un robot móvil personalizado a partir de un fichero URDF
 ### Carlos Sirvent Miquel, Stanimir Hristov Hristov
@@ -53,7 +53,7 @@
 ## Robótica submarina
 ### Javier Martí Martínez 
 
-- [Presentación en video](https://drive.google.com/drive/folders/1frS5U1bXyz7NAZcqajdvMNskKb2_Ih9x?usp=sharing)
+- [Presentación en video](https://drive.google.com/file/d/1GwJI8j5I-SF8ga8W6mPbSIVepVm_z0JX/view?usp=sharing)
 - [Documento pdf](robotica_submarina/robotica_submarina.pdf)
 
 ## Control móvil de robots drones
