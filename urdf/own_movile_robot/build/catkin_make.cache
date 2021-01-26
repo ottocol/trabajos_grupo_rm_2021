@@ -1,0 +1,2 @@
+own_movile_robot
+-DCATKIN_DEVEL_PREFIX=/home/carlos/Escritorio/own_movile_robot/devel -DCMAKE_INSTALL_PREFIX=/home/carlos/Escritorio/own_movile_robot/install -G Unix Makefiles
