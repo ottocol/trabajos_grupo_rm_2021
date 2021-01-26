@@ -1,32 +1,32 @@
 
-## 1. Vehículos no tripulados. Robot Kiva
+## Vehículos no tripulados. Robot Kiva
 ### Miguel Arenas Rocamora, Borja Pérez López, Mónica Pina Navarro, Raquel Zarraoa Sardon
 
 - [Presentación en video](https://drive.google.com/file/d/1-mtoZPpNgj2g2rj_pondnD2xYokZJ2Wm/view?usp=sharing)
 - [Documento pdf](kiva/vnt.pdf)
 - [código ROS](kiva/paquetesROS)
 
-## 2. Drones en ROS
+## Drones en ROS
 ### David Mataix Borrell, Victoria Frutos Navarro, Nuria Martínez Berná, Esther Vera Moreno
 
 - [Presentación en video](https://drive.google.com/file/d/1X2xLRyJl0wmDqlmIJh5t4tb_BAUO7lOC/view?usp=sharing)
 - [Documento pdf](drones_en_ROS/Memoria_proyecto_drones.pdf)
 - [material de ROS](drones_en_ROS/material_ROS/)
 
-## 3. Creación de un robot móvil personalizado a partir de un fichero URDF
+## Creación de un robot móvil personalizado a partir de un fichero URDF
 ### Carlos Sirvent Miquel, Stanimir Hristov Hristov
 
 - [Presentación en video](https://drive.google.com/file/d/1KzasEPV9UcJ0olEOiQzYfr-Vi7yVaIJR/view?usp=sharing)
 - [Documento pdf](urdf/robot_personalizado.pdf)
-- [código ROS](urdf/own_movile_robot/)
+- [código ROS](urdf/own_movile_robot.zip)
 
-## 4. Uso de aprendizaje por refuerzo para robótica móvil
+## Uso de aprendizaje por refuerzo para robótica móvil
 ### Pascual Tornero Martín, Daniel Ruiz Rodríguez, Javier Navarro Martínez
 
 - [Presentación en video](refuerzo/RobotsMoviles.mp4)
 - [Documento pdf](refuerzo/Trabajo.pdf)
 
-## 5. Deep learning en robótica móvil
+## Deep learning en robótica móvil
 ### Carlos Aragonés, Nicolás Ellarby, Ángel Rodríguez
 
 - [Presentación en video](https://drive.google.com/file/d/1AVoeOJEQKuVG-WWOuK1_ICO4YMLnkJx3/view?usp=sharing)

@@ -1,8 +1,0 @@
-prefix=/home/carlos/Escritorio/own_movile_robot/devel
-
-Name: own_movile_robot
-Description: Description of own_movile_robot
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
