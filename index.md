@@ -4,21 +4,21 @@
 
 - [Presentación en video](https://drive.google.com/file/d/1-mtoZPpNgj2g2rj_pondnD2xYokZJ2Wm/view?usp=sharing)
 - [Documento pdf](kiva/vnt.pdf)
-- [código ROS](kiva/paquetesROS)
+- [código ROS](https://github.com/ottocol/trabajos_grupo_rm_2021/tree/main/kiva/paquetesROS) | [código en .zip](kiva/paquetesROS.zip)
 
 ## Drones en ROS
 ### David Mataix Borrell, Victoria Frutos Navarro, Nuria Martínez Berná, Esther Vera Moreno
 
 - [Presentación en video](https://drive.google.com/file/d/1X2xLRyJl0wmDqlmIJh5t4tb_BAUO7lOC/view?usp=sharing)
 - [Documento pdf](drones_en_ROS/Memoria_proyecto_drones.pdf)
-- [material de ROS](https://github.com/ottocol/trabajos_grupo_rm_2021/tree/main/drones_en_ROS/material_ROS)[zip](drones_en_ROS/material_ROS.zip)
+- [material de ROS](https://github.com/ottocol/trabajos_grupo_rm_2021/tree/main/drones_en_ROS/material_ROS) | [material en .zip](drones_en_ROS/material_ROS.zip)
 
 ## Creación de un robot móvil personalizado a partir de un fichero URDF
 ### Carlos Sirvent Miquel, Stanimir Hristov Hristov
 
 - [Presentación en video](https://drive.google.com/file/d/1KzasEPV9UcJ0olEOiQzYfr-Vi7yVaIJR/view?usp=sharing)
 - [Documento pdf](urdf/robot_personalizado.pdf)
-- [código ROS](urdf/own_movile_robot.zip)
+- [código ROS en .zip](urdf/own_movile_robot.zip)
 
 ## Uso de aprendizaje por refuerzo para robótica móvil
 ### Pascual Tornero Martín, Daniel Ruiz Rodríguez, Javier Navarro Martínez
