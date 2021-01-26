@@ -11,7 +11,7 @@
 
 - [Presentación en video](https://drive.google.com/file/d/1X2xLRyJl0wmDqlmIJh5t4tb_BAUO7lOC/view?usp=sharing)
 - [Documento pdf](drones_en_ROS/Memoria_proyecto_drones.pdf)
-- [material de ROS](drones_en_ROS/material_ROS/)
+- [material de ROS](https://github.com/ottocol/trabajos_grupo_rm_2021/tree/main/drones_en_ROS/material_ROS)[zip](drones_en_ROS/material_ROS.zip)
 
 ## Creación de un robot móvil personalizado a partir de un fichero URDF
 ### Carlos Sirvent Miquel, Stanimir Hristov Hristov
