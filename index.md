@@ -47,7 +47,7 @@
 ## Drones en el ámbito militar
 ### Sofía Morató Asensi, Carolina López García
 
-- [Presentación en video](https://drive.google.com/drive/folders/1W-nxSrCDcqd_93euY0Pzr1J_03kehznl)
+- [Presentación en video](https://drive.google.com/file/d/11-gQD9l51o37bgpGV9xUZ_C4BZ0dKnwK/view)
 - [Documento pdf](drones_militares/TrabajoTeorico.pdf)
 
 ## Robótica submarina
