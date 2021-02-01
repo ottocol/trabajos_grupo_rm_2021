@@ -1,4 +1,6 @@
 
+> IMPORTANTE: las puntuaciones son provisionales a fecha de 1 de febrero, todavía quedan bastantes grupos por votar
+
 ## Vehículos no tripulados. Robot Kiva **(6 puntos)**
 ### Miguel Arenas Rocamora, Borja Pérez López, Mónica Pina Navarro, Raquel Zarraoa Sardon
 
