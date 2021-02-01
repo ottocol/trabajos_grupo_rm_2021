@@ -113,7 +113,7 @@
 ### Israel Alcañiz Felipe, Eros Piera Moreno y Jaume Díaz Beltrán
 
 - [Documento pdf](drones_2/drones.pdf)
-
+- [video demo mapeado con dron](https://drive.google.com/file/d/1CsGinvgtLyCvU9WyeCJv7LFQlN0fVLFX/view)
 
 ## Estudio de los Mars Exploration Rover: *hardware* y algoritmos
 ### Daniel Ahumada Sánchez, Inés Fernández Sánchez, Christian Gimeno Navas,  Daniel Pérez Torregrosa
